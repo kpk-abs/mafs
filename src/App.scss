@@ -5,3 +5,12 @@
 		font-weight: bold;
 	}
 }
+
+//To Change theme
+
+@import "mafs/core.css";
+
+.MafsView {
+  --mafs-bg: purple;
+  --mafs-fg: pink; /* controversial */
+}
